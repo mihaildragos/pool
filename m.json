@@ -1,6 +1,6 @@
 {
-  "name": "TestPool",
-  "description": "The pool that tests all the pools",
-  "ticker": "TEST",
-  "homepage": "https://teststakepool.com"
+  "name": "Musea Pool",
+  "description": "The pool that donates to museaums from its profits",
+  "ticker": "MUSEA",
+  "homepage": "https://musea.info"
 }
